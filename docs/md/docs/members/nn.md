@@ -2,12 +2,21 @@
 
 ## Bio
 
+Computer vision - Student Group
+
 ## Interests
+
+Software Arquitecture, Artificial Intelligence
 
 ## Contributions
 
-papers, blogs, research, free software...
+Hubert Alejandro Tovar Strubinger \
+Diego Armando Velazques Vargas \
+Andres Felipe Moya Rodrigues \
+Laura Natalia Gonzales Mora
 
 ## Hobbies
+
+Video Games, TV series, Movies...
 
 > :ToCPrevNext
