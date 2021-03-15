@@ -1,4 +1,4 @@
-# NN
+# WorkGroupInfo
 
 ## Bio
 
@@ -18,5 +18,3 @@ Laura Natalia Gonzales Mora
 ## Hobbies
 
 Video Games, TV series, Movies...
-
-> :ToCPrevNext
