@@ -20,4 +20,4 @@
 
 > :Collapse label=Members
 > 
-> [NN](/docs/members/nn)
+> [Hubert Alejandro Tovar Strubinger](/docs/members/Hubert-Alejandro-Tovar-Strubinger)
